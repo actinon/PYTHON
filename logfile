@@ -1,0 +1,172 @@
+17109:20200210:205833.468 unmatched trap received from "****": 20:58:27 2020/02/10 .1.3.6.1.4.1.171.11.113.1.5.2.20.0.3 Warning "Dlink all" **** - 24 $2 $3 $4 $$
+ 17105:20200210:205837.365 item "****:errorin1-[g3]" became not supported: No Such Instance currently exists at this OID
+ 17105:20200210:205837.365 item "****:errorin1-[g4]" became not supported: No Such Instance currently exists at this OID
+ 17105:20200210:205837.365 item "****:errorout1-[g4]" became not supported: No Such Instance currently exists at this OID
+ 17105:20200210:205837.366 item "****:errorout3-[e3]" became supported
+ 17105:20200210:205837.366 item "****:errorout3-[e7]" became not supported: No Such Instance currently exists at this OID
+ 17105:20200210:205837.366 item "****:errorin3-[e5]" became supported
+ 17262:20200210:205838.916 enabling SNMP agent checks on host "****": host became available
+ 17176:20200210:205839.173 SNMP agent item "Board.discovery" on host "****" failed: first network error, wait for 15 seconds
+ 17299:20200210:205840.402 resuming SNMP agent checks on host "****": connection restored
+ 17299:20200210:205851.688 resuming SNMP agent checks on host "****": connection restored
+ 17299:20200210:205851.780 resuming SNMP agent checks on host "****": connection restored
+ 17180:20200210:205852.417 SNMP agent item "Temperature" on host "****" failed: first network error, wait for 15 seconds
+ 17278:20200210:205856.106 resuming SNMP agent checks on host "****": connection restored
+ 17253:20200210:205859.240 SNMP agent item "fan.status" on host "****" failed: first network error, wait for 15 seconds
+ 17261:20200210:205859.409 SNMP agent item "fan.status" on host "****" failed: first network error, wait for 15 seconds
+ 17260:20200210:205900.492 SNMP agent item "fan.status" on host "****" failed: first network error, wait for 15 seconds
+ 17251:20200210:205900.586 SNMP agent item "temp.slot.[H808ADLF0/13]" on host "****" failed: first network error, wait for 15 seconds
+ 17301:20200210:205903.130 SNMP agent item "fan.status" on host "****" failed: first network error, wait for 15 seconds
+ 17291:20200210:205904.343 SNMP agent item "fan.status" on host "****" failed: first network error, wait for 15 seconds
+ 17254:20200210:205907.558 SNMP agent item "fan.status" on host "****" failed: first network error, wait for 15 seconds
+ 17256:20200210:205908.950 SNMP agent item "fan.status" on host "****" failed: first network error, wait for 15 seconds
+ 17295:20200210:205910.148 SNMP agent item "fan.status" on host "****" failed: first network error, wait for 15 seconds
+ 17284:20200210:205911.184 SNMP agent item "fan.status" on host "****" failed: first network error, wait for 15 seconds
+ 17289:20200210:205915.201 SNMP agent item "fan.status" on host "****" failed: first network error, wait for 15 seconds
+ 17297:20200210:205916.222 SNMP agent item "fan.status" on host "****" failed: first network error, wait for 15 seconds
+ 17267:20200210:205917.218 SNMP agent item "fan.status" on host "****" failed: first network error, wait for 15 seconds
+ 17293:20200210:205918.243 SNMP agent item "fan.status" on host "****" failed: first network error, wait for 15 seconds
+ 17284:20200210:205927.200 resuming SNMP agent checks on host "****": connection restored
+ 17105:20200210:205929.725 item "****:errorin3-[e1]" became not supported: No Such Instance currently exists at this OID
+ 17233:20200210:205931.703 SNMP agent item "interfacein3-[Ethernet0/0/6]" on host "****" failed: first network error, wait for 15 seconds
+ 17105:20200210:205932.762 item "****:errorin1-[g2]" became not supported: No Such Instance currently exists at this OID
+ 17105:20200210:205932.762 item "****:errorout3-[e2]" became not supported: No Such Instance currently exists at this OID
+ 17290:20200210:205933.148 SNMP agent item "fan.status" on host "****" failed: first network error, wait for 15 seconds
+ 17109:20200210:205933.478 unmatched trap received from "****": 20:59:27 2020/02/10 .1.3.6.1.4.1.171.11.113.1.5.2.20.0.4 Warning "Dlink all" **** - 24 $2 $3 $4 $$
+ 17106:20200210:205934.782 item "****:errorout3-[e12]" became not supported: No Such Instance currently exists at this OID
+ 17255:20200210:205941.726 SNMP agent item "fan.status" on host "****" failed: first network error, wait for 15 seconds
+ 17109:20200210:205943.480 unmatched trap received from "****": 20:59:37 2020/02/10 .1.3.6.1.4.1.171.11.113.1.5.2.20.0.3 Warning "Dlink all" **** - 24 $2 $3 $4 $$
+ 17270:20200210:205943.898 SNMP agent item "fan.status" on host "****" failed: first network error, wait for 15 seconds
+ 17106:20200210:210028.294 item "****:errorin1-[g3]" became not supported: No Such Instance currently exists at this OID
+ 17106:20200210:210028.294 item "****:errorout1-[g3]" became supported
+ 17106:20200210:210028.294 error reason for "****:cpu.util" changed: Value "0.2" of type "string" is not suitable for value type "Numeric (unsigned)"
+ 17290:20200210:210031.203 resuming SNMP agent checks on host "****": connection restored
+ 17105:20200210:210033.340 item "****:errorin1-[g3]" became not supported: No Such Instance currently exists at this OID
+ 17105:20200210:210033.340 item "****:errorout3-[e6]" became supported
+ 17105:20200210:210033.340 item "****:errorin3-[e6]" became supported
+ 17109:20200210:210033.490 unmatched trap received from "172.20.68.41": 21:00:31 2020/02/10 .1.3.6.1.4.1.2011.5.25.174.3.3 Warning "Huawei" **** - Ethernet0/0/4 VLAN 801 3$
+ 17105:20200210:210035.360 item "****:errorin1-[e23]" became supported
+ 17105:20200210:210035.360 item "****:errorin1-[g3]" became supported
+ 17105:20200210:210035.360 item ****:errorout1-[g3]" became supported
+ 17106:20200210:210037.395 item "****:errorin1-[g3]" became not supported: No Such Instance currently exists at this OID
+ 17106:20200210:210037.395 item "****:errorout1-[e24]" became supported
+ 17106:20200210:210037.395 item "****:errorout1-[g4]" became supported
+ 17106:20200210:210037.395 item "****:errorout3-[e1]" became not supported: No Such Instance currently exists at this OID
+ 17105:20200210:210039.410 item "****:errorout1-[g4]" became not supported: No Such Instance currently exists at this OID
+ 17106:20200210:210040.427 item "****:errorin1-[g1]" became not supported: No Such Instance currently exists at this OID
+ 17106:20200210:210040.427 item "****:errorin3-[e2]" became not supported: No Such Instance currently exists at this OID
+ 17105:20200210:210041.433 item "****:errorin1-[g3]" became not supported: No Such Instance currently exists at this OID
+ 17105:20200210:210041.433 item "****:errorout1-[g3]" became not supported: No Such Instance currently exists at this OID
+ 17105:20200210:210041.433 item "****:errorout1-[g4]" became supported
+ 17105:20200210:210041.433 item "****:errorout3-[e3]" became supported
+ 17105:20200210:210041.433 item "****:errorin3-[e5]" became supported
+ 17106:20200210:210043.471 item "****:errorin1-[e24]" became not supported: No Such Instance currently exists at this OID
+ 17106:20200210:210043.471 item "****:errorin1-[g4]" became not supported: No Such Instance currently exists at this OID
+ 17106:20200210:210043.471 item "****:errorout1-[g3]" became supported
+ 17106:20200210:210043.471 item "****:errorout1-[g4]" became supported
+ 17106:20200210:210043.471 item "****:errorout3-[e1]" became supported
+ 17106:20200210:210043.471 item "****:errorout3-[e11]" became supported
+ 17106:20200210:210043.471 item "****:errorin3-[e11]" became supported
+ 17109:20200210:210043.492 unmatched trap received from "****": 21:00:37 2020/02/10 .1.3.6.1.4.1.171.11.113.1.5.2.20.0.4 Warning "Dlink all" **** - 24 $2 $3 $4 $$
+ 17106:20200210:210045.510 item "****:errorin1-[g3]" became supported
+ 17106:20200210:210045.510 item "****:errorin1-[g4]" became supported
+ 17125:20200210:210047.873 SNMP agent item "Temperature" on host "****" failed: first network error, wait for 15 seconds
+ 17288:20200210:210049.021 resuming SNMP agent checks on host "****": connection restored
+ 17288:20200210:210050.230 resuming SNMP agent checks on host "****": connection restored
+ 17109:20200210:210053.494 unmatched trap received from "****": 21:00:47 2020/02/10 .1.3.6.1.4.1.171.11.113.1.5.2.20.0.3 Warning "Dlink all" **** - 24 $2 $3 $4 $$
+ 17105:20200210:210056.652 item "****:errorout1-[g3]" became not supported: No Such Instance currently exists at this OID
+ 17282:20200210:210057.160 resuming SNMP agent checks on host "****": connection restored
+ 17106:20200210:210057.648 item "****:errorin1-[e23]" became supported
+ 17106:20200210:210057.648 item "****:errorin1-[g1]" became supported
+ 17106:20200210:210057.649 item "****:errorout1-[g1]" became supported
+ 17106:20200210:210057.649 item "****:errorin3-[e12]" became not supported: No Such Instance currently exists at this OID
+ 17106:20200210:210058.677 item "****:errorin1-[g1]" became supported
+ 17106:20200210:210058.678 item "****:errorout3-[e1]" became not supported: No Such Instance currently exists at this OID
+ 17106:20200210:210058.678 item "****:errorin3-[e12]" became not supported: No Such Instance currently exists at this OID
+ 17290:20200210:210059.218 resuming SNMP agent checks on host "****": connection restored
+ 17272:20200210:210100.022 resuming SNMP agent checks on host "****": connection restored
+ 17272:20200210:210103.031 resuming SNMP agent checks on host "****": connection restored
+ 17272:20200210:210104.034 resuming SNMP agent checks on host "****": connection restored
+ 17272:20200210:210110.042 resuming SNMP agent checks on host "****": connection restored
+ 17283:20200210:210111.043 resuming SNMP agent checks on host "****": connection restored
+ 17272:20200210:210115.052 resuming SNMP agent checks on host "****": connection restored
+ 17283:20200210:210116.052 resuming SNMP agent checks on host "****": connection restored
+ 17106:20200210:210116.837 item "****:errorin1-[g1]" became supported
+ 17106:20200210:210116.837 item "****:errorin1-[g2]" became not supported: No Such Instance currently exists at this OID
+ 17106:20200210:210116.837 item "****:errorin3-[e16]" became supported
+ 17272:20200210:210117.059 resuming SNMP agent checks on host "****": connection restored
+ 17283:20200210:210118.057 resuming SNMP agent checks on host "****": connection restored
+ 17106:20200210:210118.874 item "****:errorin1-[g1]" became supported
+ 17106:20200210:210118.874 item "****:errorout1-[g2]" became supported
+ 17106:20200210:210118.874 item "****:errorin1-[g1]" became supported
+ 17106:20200210:210118.874 item "****:errorout1-[g1]" became not supported: No Such Instance currently exists at this OID
+ 17106:20200210:210118.874 item "****:errorout3-[e1]" became not supported: No Such Instance currently exists at this OID
+ 17106:20200210:210118.874 item "****:errorout3-[e3]" became supported
+ 17106:20200210:210118.875 item "****:errorout3-[e15]" became supported
+ 17106:20200210:210118.875 item "****:errorout3-[e13]" became not supported: No Such Instance currently exists at this OID
+ 17106:20200210:210118.875 item "****:errorout3-[e17]" became supported
+ 17151:20200210:210119.088 SNMP agent item "errorin1-[GigabitEthernet0/0/2]" on host "****" failed: first network error, wait for 15 seconds
+ 17105:20200210:210121.900 item "****:errorin1-[g2]" became not supported: No Such Instance currently exists at this OID
+ 17105:20200210:210121.900 item "****:errorout1-[g2]" became supported
+ 17105:20200210:210121.900 item "****:errorin3-[e17]" became supported
+ 17105:20200210:210123.920 item "****:errorin1-[g1]" became not supported: No Such Instance currently exists at this OID
+ 17105:20200210:210123.920 item "****:errorin1-[g2]" became not supported: No Such Instance currently exists at this OID
+ 17105:20200210:210123.920 item "****:errorout3-[e1]" became supported
+ 17106:20200210:210124.929 error reason for "****:cpu.util" changed: Value "0.4" of type "string" is not suitable for value type "Numeric (unsigned)"
+ 17282:20200210:210129.191 resuming SNMP agent checks on host "****": connection restored
+ 17105:20200210:210129.979 error reason for "****:cpu.util" changed: Value "10.9" of type "string" is not suitable for value type "Numeric (unsigned)"
+ 17106:20200210:210132.002 error reason for "****:cpu.util" changed: Value "0.5" of type "string" is not suitable for value type "Numeric (unsigned)"
+ 17282:20200210:210133.196 resuming SNMP agent checks on host "****": connection restored
+ 17282:20200210:210141.209 resuming SNMP agent checks on host "****": connection restored
+ 17109:20200210:210153.505 unmatched trap received from "****": 21:01:47 2020/02/10 .1.3.6.1.4.1.171.11.113.1.5.2.20.0.4 Warning "Dlink all" **** - 24 $2 $3 $4 $$
+ 17148:20200210:210158.556 SNMP agent item "****" on host "****" failed: first network error, wait for 15 seconds
+ 17293:20200210:210200.235 resuming SNMP agent checks on host "****": connection restored
+ 17109:20200210:210203.507 unmatched trap received from "****": 21:01:57 2020/02/10 .1.3.6.1.4.1.171.11.113.1.5.2.20.0.3 Warning "Dlink all" **** - 24 $2 $3 $4 $$
+ 17106:20200210:210207.291 item "****:errorin1-[g1]" became not supported: No Such Instance currently exists at this OID
+ 17106:20200210:210207.291 item "****:errorout1-[g1]" became not supported: No Such Instance currently exists at this OID
+ 17272:20200210:210208.244 resuming SNMP agent checks on host "****": connection restored
+ 17159:20200210:210219.874 SNMP agent item "errorin3-[NOMON_Radio_Mayak]" on host "****" failed: first network error, wait for 15 seconds
+ 17106:20200210:210224.448 item "****errorin1-[g4]" became not supported: No Such Instance currently exists at this OID
+ 17106:20200210:210224.448 item "****:errorout1-[g1]" became not supported: No Such Instance currently exists at this OID
+ 17106:20200210:210224.448 item "****:errorout1-[g3]" became supported
+ 17106:20200210:210224.448 item "****:errorout3-[e10]" became supported
+ 17106:20200210:210224.448 item "****:errorin3-[e2]" became supported
+ 17241:20200210:210226.840 SNMP agent item "errorout3-[Ethernet0/0/7]" on host "****" failed: first network error, wait for 15 seconds
+ 17276:20200210:210229.021 resuming SNMP agent checks on host "****": connection restored
+ 17259:20200210:210247.021 resuming SNMP agent checks on host "****": connection restored
+ 17234:20200210:210251.353 SNMP agent item "errorout3-[Ethernet0/0/11]" on host "****" failed: first network error, wait for 15 seconds
+ 17281:20200210:210256.153 resuming SNMP agent checks on host "****": connection restored
+ 17109:20200210:210303.516 unmatched trap received from "****": 21:02:57 2020/02/10 .1.3.6.1.4.1.171.11.113.1.5.2.20.0.4 Warning "Dlink all" **** - 24 $2 $3 $4 $$
+ 17105:20200210:210306.790 item "****:errorout1-[e12]" became not supported: No Such Instance currently exists at this OID
+ 17105:20200210:210306.790 item "****:errorout1-[g4]" became supported
+ 17300:20200210:210307.267 resuming SNMP agent checks on host "****": connection restored
+ 17297:20200210:210308.436 resuming SNMP agent checks on host "****": connection restored
+ 17160:20200210:210308.931 SNMP agent item "cpu.board.[H808ADLF0/4]" on host "****" failed: first network error, wait for 15 seconds
+ 17109:20200210:210313.518 unmatched trap received from "****": 21:03:07 2020/02/10 .1.3.6.1.4.1.171.11.113.1.5.2.20.0.3 Warning "Dlink all" **** - 24 $2 $3 $4 $$
+ 17222:20200210:210322.877 SNMP agent item "RS485" on host "****" failed: first network error, wait for 15 seconds
+ 17175:20200210:210329.584 SNMP agent item "errorout1-[Ethernet0/0/24]" on host "****" failed: first network error, wait for 15 seconds
+ 17106:20200210:210330.975 item "****:errorout1-[g3]" became not supported: No Such Instance currently exists at this OID
+ 17105:20200210:210331.985 item "****:errorin1-[g3]" became not supported: No Such Instance currently exists at this OID
+ 17105:20200210:210331.985 item "****:errorout3-[e9]" became not supported: No Such Instance currently exists at this OID
+ 17106:20200210:210336.021 item "****:errorout3-[e3]" became not supported: No Such Instance currently exists at this OID
+ 17106:20200210:210336.021 item "****:errorin3-[e5]" became not supported: No Such Instance currently exists at this OID
+ 17284:20200210:210343.487 resuming SNMP agent checks on host "****": connection restored
+ 17169:20200210:210350.637 SNMP agent item "ifstate1-[GigabitEthernet0/0/2]" on host "****" failed: first network error, wait for 15 seconds
+ 17199:20200210:210358.059 SNMP agent item "Temp_Bat" on host "****" failed: first network error, wait for 15 seconds
+ 17296:20200210:210359.207 SNMP agent item "fan.status" on host "****" failed: first network error, wait for 15 seconds
+ 17281:20200210:210359.212 SNMP agent item "fan.status" on host "****" failed: first network error, wait for 15 seconds
+ 17267:20200210:210400.464 SNMP agent item "fan.status" on host "****" failed: first network error, wait for 15 seconds
+ 17276:20200210:210403.480 SNMP agent item "fan.status" on host "****" failed: first network error, wait for 15 seconds
+ 17301:20200210:210404.461 SNMP agent item "fan.status" on host "****" failed: first network error, wait for 15 seconds
+ 17300:20200210:210407.293 SNMP agent item "fan.status" on host "****" failed: first network error, wait for 15 seconds
+ 17297:20200210:210408.484 SNMP agent item "fan.status" on host "****" failed: first network error, wait for 15 seconds
+ 17224:20200210:210409.320 SNMP agent item "errorin3-[Ethernet0/0/14]" on host "****" failed: first network error, wait for 15 seconds
+ 17294:20200210:210410.467 SNMP agent item "fan.status" on host "****" failed: first network error, wait for 15 seconds
+ 17288:20200210:210411.482 SNMP agent item "fan.status" on host "****" failed: first network error, wait for 15 seconds
+ 17109:20200210:210413.528 unmatched trap received from "****": 21:04:07 2020/02/10 .1.3.6.1.4.1.171.11.113.1.5.2.20.0.4 Warning "Dlink all" 172.20.69.106 - 24 $2 $3 $4 $$
+ 17283:20200210:210415.510 SNMP agent item "fan.status" on host "****" failed: first network error, wait for 15 seconds
+ 17272:20200210:210416.483 SNMP agent item "fan.status" on host "****" failed: first network error, wait for 15 seconds
+ 17261:20200210:210417.487 SNMP agent item "fan.status" on host "****" failed: first network error, wait for 15 seconds
+ 17236:20200210:210417.983 SNMP agent item "ifstate1-[GigabitEthernet0/0/1]" on host "****" failed: first network error, wait for 15 seconds
+ 17291:20200210:210418.514 SNMP agent item "fan.status" on host "****" failed: first network error, wait for 15 seconds
+ 17298:20200210:210421.661 resuming SNMP agent checks on host "***": connection restored
